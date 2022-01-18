@@ -1,13 +1,16 @@
 {
   "name": "pterodactyl-bot",
+  "author": "Luxxy-GF",
+  "description": "A bot for Pterodactl",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "pm2": "pm2 start pm2.json",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "ascii-table": "^0.0.9",
