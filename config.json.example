@@ -1,0 +1,19 @@
+{
+    "bot": {
+        "token": "",
+        "prefix": "",
+        "testguild": "",
+        "owner": ""
+    },
+    "embed": {
+        "color": "BLUE",
+        "footer": "Made by @Luxxy#1337"
+    },
+    "panel": {
+        "panelurl": "",
+        "panelname": "",
+        "panelapikey": "",
+        "panelclientapikey": ""
+    },
+    "db": {}
+}

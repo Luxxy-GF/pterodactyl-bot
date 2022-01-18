@@ -1,0 +1,21 @@
+{
+  "name": "pterodactyl-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^0.25.0",
+    "common-tags": "^1.8.2",
+    "discord.js": "^13.6.0",
+    "glob": "^7.2.0",
+    "prettysize": "^2.0.0",
+    "util": "^0.12.4"
+  }
+}
