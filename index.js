@@ -13,4 +13,10 @@ client.config = require("./config.json");
 
 require("./handler")(client);
 
+
+
+let db = require("quick.db");
+
+client.userData = new db.table("userData");
+
 client.login(client.config.bot.token);
